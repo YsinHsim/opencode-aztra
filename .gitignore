@@ -1,0 +1,10 @@
+# Config snippets and secret files. Nothing here is a real secret.
+
+# Aztra API key, written by install.sh (chmod 600)
+aztra.key
+*.key
+
+# Local overrides
+.env
+
+.DS_Store
